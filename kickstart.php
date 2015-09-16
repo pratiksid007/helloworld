@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Akeeba Kickstart
+ * Akeeba Kickstart pratik
  * A JSON-powered archive extraction tool
  *
  * @copyright   2010-2014 Nicholas K. Dionysopoulos / AkeebaBackup.com
